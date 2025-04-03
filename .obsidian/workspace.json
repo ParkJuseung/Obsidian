@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/test.md",
+                "file": "Spring/test.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,9 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0cb720774fe1457",
+  "active": "50030868d7f409d1",
   "lastOpenFiles": [
     "Java/test.md",
+    "Spring/test.md",
     "새 텍스트 문서.txt",
     "무제.canvas",
     "TEST.md",
