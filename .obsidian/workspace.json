@@ -11,14 +11,14 @@
             "id": "d59323b3374f34e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Spring/Bean.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Bean"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 584.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,13 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "275054a70933bddb",
+  "active": "d59323b3374f34e2",
   "lastOpenFiles": [
+    "Spring/Bean.md",
     "Spring/DI ( Dependency Injection ).md",
     "Spring/Spring Container.md",
     "Spring/IoC ( Inversion of Control ).md",
     "Spring/Hello Spring.md",
-    "Spring/Bean.md",
     "Computer Science/싱글톤.md",
     "Java/Interface.md",
     "Sist/2025-04-08.md",
