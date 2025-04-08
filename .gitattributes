@@ -1,0 +1,15 @@
+# 기본적으로 모든 텍스트 파일은 LF 줄바꿈
+* text=auto eol=lf
+
+# 자주 쓰는 파일 확장자들 따로 명시
+*.md text eol=lf
+*.json text eol=lf
+*.java text eol=lf
+*.txt text eol=lf
+
+# 바이너리는 제외
+*.png binary
+*.jpg binary
+*.gif binary
+*.exe binary
+*.dll binary
