@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "conflict-files-obsidian-git 의 개요"
             }
           },
           {
@@ -188,17 +189,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "275054a70933bddb",
+  "active": "50030868d7f409d1",
   "lastOpenFiles": [
     "www.naver.com.md",
-    "Spring/무제.md",
+    "conflict-files-obsidian-git.md",
+    "Sist/2025-04-08.md",
+    "환영합니다!.md",
     "().md",
     "Java/test.md",
+    "Java/Interface.md",
+    "Spring/무제.md",
+    "Spring/스프링 컨테이너.md",
+    "Spring/IoC ( Inversion of Control ).md",
+    "Spring/Hello Spring.md",
+    "Spring/DI ( Dependency Injection ).md",
+    "Spring/Bean.md",
+    "Sist",
     "Spring/test.md",
     "새 텍스트 문서.txt",
     "무제.canvas",
     "TEST.md",
-    "환영합니다!.md",
     "2025-04-04.md",
     "Spring",
     "Java",

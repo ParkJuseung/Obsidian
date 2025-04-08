@@ -1,0 +1,10 @@
+/* 본문 줄 간격 (미리보기 모드) */
+.markdown-preview-view p {
+  line-height: 1.8;
+  margin-bottom: 1em;  /* 문단 간 여백 */
+}
+
+/* 편집 모드 줄 간격 */
+.cm-s-obsidian .cm-line {
+  line-height: 1.8;
+}

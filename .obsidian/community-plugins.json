@@ -1,5 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin",
+  "obsidian-outliner"
 ]
