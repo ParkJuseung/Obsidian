@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Inter,Segoe UI,JetBrains Mono NL",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "line-spacing"
+  ]
+}
