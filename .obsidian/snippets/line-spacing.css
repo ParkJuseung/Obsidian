@@ -8,3 +8,11 @@
 .cm-s-obsidian .cm-line {
   line-height: 1.8;
 }
+
+.cm-header-1 { font-size: 2em !important; }
+.cm-header-2 { font-size: 1.6em !important; }
+.cm-header-3 { font-size: 1.3em !important; }
+
+.markdown-source-view {
+  spellcheck: false !important;
+}

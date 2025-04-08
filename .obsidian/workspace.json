@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/무제.md",
+                "file": "Spring/Bean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "Bean"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spring/Bean.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 의 개요"
+              "title": "Bean 의 개요"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -189,21 +190,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50030868d7f409d1",
+  "active": "275054a70933bddb",
   "lastOpenFiles": [
-    "www.naver.com.md",
-    "conflict-files-obsidian-git.md",
-    "Sist/2025-04-08.md",
-    "환영합니다!.md",
-    "().md",
-    "Java/test.md",
-    "Java/Interface.md",
-    "Spring/무제.md",
-    "Spring/스프링 컨테이너.md",
+    "Spring/DI ( Dependency Injection ).md",
+    "Spring/Spring Container.md",
     "Spring/IoC ( Inversion of Control ).md",
     "Spring/Hello Spring.md",
-    "Spring/DI ( Dependency Injection ).md",
     "Spring/Bean.md",
+    "Computer Science/싱글톤.md",
+    "Java/Interface.md",
+    "Sist/2025-04-08.md",
+    "Java/test.md",
+    "Computer Science",
+    "www.naver.com.md",
+    "Spring/무제.md",
+    "conflict-files-obsidian-git.md",
+    "환영합니다!.md",
+    "().md",
     "Sist",
     "Spring/test.md",
     "새 텍스트 문서.txt",
