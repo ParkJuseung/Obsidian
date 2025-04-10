@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "2025-04-10"
             }
+          },
+          {
+            "id": "c543b88810b3f8e0",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "803b974356a731ad",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,11 +219,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcc7baff78fd3cd2",
+  "active": "803b974356a731ad",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sist/2025-04-10.md",
     "Spring/HandlerMapping.md",
     "Spring/DispatcherServlet.md",
-    "Sist/2025-04-10.md",
     "Spring/스프링 구조.md",
     "Sist/2025-04-09.md",
     "Sist/2025-04-08.md",
@@ -216,7 +246,6 @@
     "Java/test.md",
     "Computer Science",
     "www.naver.com.md",
-    "conflict-files-obsidian-git.md",
     "환영합니다!.md",
     "().md",
     "Sist",
