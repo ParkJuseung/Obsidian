@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "683140a7ed9953bc",
+        "id": "a3aa266c70a67fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "d59323b3374f34e2",
+            "id": "fcc7baff78fd3cd2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Sist/2025-04-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "2025-04-10"
             }
           }
         ]
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 584.5
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,20 +190,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d59323b3374f34e2",
+  "active": "fcc7baff78fd3cd2",
   "lastOpenFiles": [
+    "Spring/HandlerMapping.md",
+    "Spring/DispatcherServlet.md",
+    "Sist/2025-04-10.md",
+    "Spring/스프링 구조.md",
+    "Sist/2025-04-09.md",
+    "Sist/2025-04-08.md",
+    "Pasted image 20250410094701.png",
+    "Pasted image 20250410092144.png",
+    "Pasted image 20250410091859.png",
+    "Pasted image 20250410091053.png",
+    "Excalidraw/Drawing 2025-04-10 09.14.07.excalidraw.md",
+    "Spring/AOP(Aspect Oriented Programming).md",
     "Spring/Bean.md",
     "Spring/DI ( Dependency Injection ).md",
     "Spring/Spring Container.md",
     "Spring/IoC ( Inversion of Control ).md",
+    "Spring/AOP.md",
+    "Java/Interface.md",
+    "Excalidraw",
     "Spring/Hello Spring.md",
     "Computer Science/싱글톤.md",
-    "Java/Interface.md",
-    "Sist/2025-04-08.md",
     "Java/test.md",
     "Computer Science",
     "www.naver.com.md",
-    "Spring/무제.md",
     "conflict-files-obsidian-git.md",
     "환영합니다!.md",
     "().md",
@@ -215,7 +227,6 @@
     "2025-04-04.md",
     "Spring",
     "Java",
-    "Excalidraw/Drawing 2025-04-04 00.43.48.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2025-04-04 00.43.48.excalidraw.md"
   ]
 }
