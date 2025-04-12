@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sist/2025-04-10.md",
+                "file": "Spring/데이터 흐름 (Spring MVC + MyBatis + JSP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-10"
-            }
-          },
-          {
-            "id": "c543b88810b3f8e0",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "803b974356a731ad",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "데이터 흐름 (Spring MVC + MyBatis + JSP)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,6 +169,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e54d5b4cbe5b73a3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -219,15 +200,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "803b974356a731ad",
+  "active": "50030868d7f409d1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Sist/2025-04-10.md",
-    "Spring/HandlerMapping.md",
+    " - 복사본.gitattributes",
+    "Spring/Annotation.md",
+    "Java/Override.md",
+    "Java/final.md",
+    "Spring/데이터 흐름 (Spring MVC + MyBatis + JSP).md",
     "Spring/DispatcherServlet.md",
-    "Spring/스프링 구조.md",
-    "Sist/2025-04-09.md",
+    "Spring/Mapping.md",
+    "Spring/HandlerMapping.md",
+    "Spring/DI ( Dependency Injection ).md",
+    "Java/Interface.md",
     "Sist/2025-04-08.md",
+    "Sist/2025-04-11.md",
+    "Sist/2025-04-10.md",
+    "Sist/2025-04-09.md",
+    "conflict-files-obsidian-git.md",
+    "Spring/스프링 구조.md",
     "Pasted image 20250410094701.png",
     "Pasted image 20250410092144.png",
     "Pasted image 20250410091859.png",
@@ -235,27 +225,19 @@
     "Excalidraw/Drawing 2025-04-10 09.14.07.excalidraw.md",
     "Spring/AOP(Aspect Oriented Programming).md",
     "Spring/Bean.md",
-    "Spring/DI ( Dependency Injection ).md",
     "Spring/Spring Container.md",
     "Spring/IoC ( Inversion of Control ).md",
     "Spring/AOP.md",
-    "Java/Interface.md",
     "Excalidraw",
     "Spring/Hello Spring.md",
     "Computer Science/싱글톤.md",
     "Java/test.md",
     "Computer Science",
     "www.naver.com.md",
-    "환영합니다!.md",
-    "().md",
     "Sist",
-    "Spring/test.md",
     "새 텍스트 문서.txt",
     "무제.canvas",
-    "TEST.md",
-    "2025-04-04.md",
     "Spring",
-    "Java",
-    "Excalidraw/Drawing 2025-04-04 00.43.48.excalidraw.md"
+    "Java"
   ]
 }
